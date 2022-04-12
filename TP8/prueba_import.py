@@ -1,0 +1,2 @@
+import snman
+snman.serienumerica()

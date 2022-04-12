@@ -1,0 +1,31 @@
+b. Cruzar una calle en una esquina con semáforos.
+INICIAL: parados en la esquina.
+
+1. mirar el semaforo de autos de costado.
+2. si el semaforo esta en rojo:
+	 avanzar hasta llegar a la otra esquina.
+3. si el semaforo esta en verde:
+	 esperar hasta que cambie a color rojo.
+4. si el semaforo no funciona:
+	 buscar otra esquina con semaforo.
+
+FINAL
+
+c. Lavarse las manos.
+INICIAL: parado frente a la canilla.
+
+1. abrir la canilla.
+2. mojarse las manos.
+3. cerrar la canilla.
+4. ponerse jabon.
+5. abrir nuevamente la canilla.
+6. frotarse bien las manos hasta que quede una cantidad abundante de jabon en ellas.
+7. enjuagarse las manos.
+8. cerrar la canilla.
+
+FINAL
+
+d. Preparar un mate.
+INICIAL:   
+
+

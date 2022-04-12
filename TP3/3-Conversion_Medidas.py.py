@@ -1,0 +1,11 @@
+numero = float(input("Dime tu altura en metros: "))
+print("Mides ", numero," metros.")
+print("Eso equivale a ")
+numero = int(numero * 100)
+print("- ",numero," centimetros, ")
+numero = round(numero / 2.54,2)
+print("- ",numero," pulgadas, ")
+numero = round(numero / 12,2)
+print("- ",numero," pies, ")
+numero = numero / 3
+print("- ",numero," yardas.")
